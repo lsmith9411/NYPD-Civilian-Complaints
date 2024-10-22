@@ -32,7 +32,31 @@ Presented at Bryant University ReDay 2024 and placed 2nd at Analytics Without Bo
 
 <p align="center">
 
-<img src="" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tJCpjgI.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/12qPCH0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/mYgrpzv.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/WtHNYlR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/L1ZAOrB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/xlP4yNg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/2LkBbzC.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/t3vb7DE.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/weJbg3J.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
